@@ -1,1 +1,1 @@
-Hola estoy en pruebas de git. Parece que funciona
+Hola estoy en pruebas de git. Parece que funciona si esta funcionando
